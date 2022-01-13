@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">帳號管理器</string>
+    <string-array name="person">
+    </string-array>
+</resources>
